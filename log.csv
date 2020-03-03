@@ -1,0 +1,11 @@
+Exam,Scan,Artifact Present?,# Artifacts,Other Present?,# Others,path_toLog
+2133,8,1,1,1,79,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2133/s8_FUNC_RS_1_MUX6/log_summary_e2133_s8.txt
+2156,7,1,1,1,25,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2156/s7_FUNC_RS_1_MUX6/log_summary_e2156_s7.txt
+2218,6,0,0,0,0,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2218/s6_FUNC_MUX6_2mm/log_summary_e2218_s6.txt
+2225,6,0,0,1,1,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2225/s6_FUNC_MUX6_2mm/log_summary_e2225_s6.txt
+2234,5,1,1,1,3,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2234/s5_FUNC_RS_1_MUX6/log_summary_e2234_s5.txt
+2239,20,1,3,1,537,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2239/s20_func_resting/log_summary_e2239_s20.txt
+2244,13,1,1,1,4,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2244/s13_FUNC_RS_3_MUX6/log_summary_e2244_s13.txt
+2295,8,1,3,1,448,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2295/s8_FUNC_MUX6_2mm/log_summary_e2295_s8.txt
+2304,6,1,1,1,154,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2304/s6_FUNC_MUX6_2mm/log_summary_e2304_s6.txt
+2317,8,0,0,0,0,/MRI_DATA/coil-noise/scans/Coil_Noise_QA_Output/2317/s8_FUNC_MUX4ARC2_Mem_V289/log_summary_e2317_s8.txt
