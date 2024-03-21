@@ -15,7 +15,7 @@ scope = ['https://spreadsheets.google.com/feeds',
 credentials = ServiceAccountCredentials.from_json_keyfile_name('google-credentials.json', scope)
 gc = gspread.authorize(credentials)
 wks = gc.open("nyspi coil qa summaries").sheet1
-ss_key = '1WyytHPL3k5slpZQ4eOMvwEB-rjp2jJf0nKY0I5ALHOQ'
+ss_key = 'replace'
 wks_name = 'Sheet1'
 
 exams = []
